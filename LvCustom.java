@@ -1,8 +1,5 @@
-import java.sql.Array;
-import java.util.Arrays;
-
-public class Lv1 {
-   public static void main(String[] args) {
+public class LvCustom {
+   public static void main(String []args) {
         ObjectUtil util = new ObjectUtil();
 
         System.out.println();
